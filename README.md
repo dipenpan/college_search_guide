@@ -1,4 +1,4 @@
-# 🎓 College Search Guide
+# College Search Guide
 
 A modern, responsive **college research website** built to help international students—especially Nepali undergraduates—explore, compare, and evaluate U.S. universities and academic programs with clarity and confidence.
 
@@ -7,7 +7,7 @@ The site focuses on **real decision-making factors** such as affordability, admi
 ---
 
 
-## ✨ Key Features
+## Key Features
 
 - 🔍 **University search & filtering**
   - Filter by state, cost, admission rate, student size, and outcomes
@@ -17,16 +17,16 @@ The site focuses on **real decision-making factors** such as affordability, admi
   - View acceptance rate, net price, and student outcomes side-by-side
 - 🧭 **Multi-page navigation**
   - Universities, Programs, and Resources sections
-- 📱 **Responsive design**
+- **Responsive design**
   - Optimized for desktop, tablet, and mobile browsers
-- 🎨 **Consistent design system**
+- **Consistent design system**
   - Custom global styles with modern UI components
 - 💾 **Local state management**
   - Save selections and preferences during browsing
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React** – Component-based UI development  
 - **Vite** – Fast build tooling and development server  
@@ -35,7 +35,7 @@ The site focuses on **real decision-making factors** such as affordability, admi
 - **npm** – Dependency management  
 
 ---
-## 🚀 Running Locally
+## Running Locally
 
 ```bash
 # Install dependencies
